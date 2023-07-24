@@ -30,10 +30,10 @@ The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the A
 <img width="auto" height="550" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/66ef8ef0-26af-4474-8fba-bc7542c3dd77">
 
 ## 👥 Contributors:
-- [Phantom-IN](https://github.com/Phantom-IN)
-- [Dhruvnet](https://github.com/Dhruvnet)
-- [uyaditi](https://github.com/uyaditi)
-- [musteryasm](https://github.com/musteryasm)
+- [Vaibhav Vanage](https://github.com/Phantom-IN)
+- [Dhruv Sheth](https://github.com/Dhruvnet)
+- [Aditi Gaikwad](https://github.com/uyaditi)
+- [Shivam Musterya](https://github.com/musteryasm)
 
 #
 Thank you for checking out our project! Feel free to explore the notebooks and the website. If you have any questions or feedback, don't hesitate to reach out. Happy coding! 😄👨‍💻👩‍💻
