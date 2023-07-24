@@ -1,10 +1,10 @@
 
 ### We have hosted the FriendNextDoor App on Vercel 🌐 [https://friendnextdoor.vercel.app/](https://friendnextdoor.vercel.app/)
 
-# FriendNextDoor 
+# <img width="50" height="30" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/cc9b2dbb-351b-47d2-a88c-4656d2068598"> FriendNextDoor
 FriendNextDoor is an AI-powered mental health platform, which connects users with empathetic 3D avatars to discuss concerns in a safe, private space. Users can get tailored guidance on anxiety, stress, depression, and more.
 
-## 📂 Setup Steps
+## ⚙️ Setup Steps
 The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the App to render Avatar (AVATAR)
 
 ### Setting Avatar App
