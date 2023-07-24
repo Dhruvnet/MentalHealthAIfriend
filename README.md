@@ -1,7 +1,10 @@
+
+### We have hosted the FriendNextDoor App on Vercel 🌐 [https://friendnextdoor.vercel.app/](https://friendnextdoor.vercel.app/)
+
 # FriendNextDoor 
 FriendNextDoor is an AI-powered mental health platform, which connects users with empathetic 3D avatars to discuss concerns in a safe, private space. Users can get tailored guidance on anxiety, stress, depression, and more.
 
-## Setup Steps
+## 📂 Setup Steps
 The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the App to render Avatar (AVATAR)
 
 ### Setting Avatar App
@@ -18,6 +21,21 @@ The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the A
 - Use ` npm run start ` to start the app. The app will launch on ` http://localhost:3000 `
 - Now the FriendNextDoor app is Running.
 
+## 📷 Screenshots:
+<img width="550" height="350" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/fb771cb1-ee5d-4252-ad90-4ca9b94bcf92">
+<img width="550" height="350" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/52239d09-3313-4046-ade9-223aca692f2f">
+<img width="550" height="350" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/8e43ddcd-8cd9-47f3-b4a3-4cf320163012">
+ 
+ > *It's also responsive*
+<img width="auto" height="550" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/66ef8ef0-26af-4474-8fba-bc7542c3dd77">
 
-### We have hosted the FriendNextDoor App on Vercel [https://friendnextdoor.vercel.app/](https://friendnextdoor.vercel.app/)
+## 👥 Contributors:
+- [Phantom-IN](https://github.com/Phantom-IN)
+- [Dhruvnet](https://github.com/Dhruvnet)
+- [uyaditi](https://github.com/uyaditi)
+- [musteryasm](https://github.com/musteryasm)
+
+#
+Thank you for checking out our project! Feel free to explore the notebooks and the website. If you have any questions or feedback, don't hesitate to reach out. Happy coding! 😄👨‍💻👩‍💻
+
 
