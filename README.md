@@ -6,25 +6,43 @@ FriendNextDoor is an AI-powered mental health platform, which connects users wit
 
 ## 📢 Important Instructions
 The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the App to render Avatar (AVATAR)
-
-### ⚙️ Setting Avatar App
-- Navigate to AVATAR ` cd AVATAR/main/talking-avatar `
-- Install required dependencies ` npm i `
-- Use ` npm run start ` to start the app. The app will launch on ` http://localhost:8000 `
-
 > *Note:*
 > Keep the AVATAR App running
+### ⚙️ Setting Avatar App
+- Navigate to AVATAR
+```bash
+  cd AVATAR/main/talking-avatar
+```
+
+- Install required dependencies 
+```bash
+  npm i
+```
+- Use this to start the app. The app will launch on ` http://localhost:8000 `
+```bash
+  npm run start
+```
+
 
 ### 🌐 Setting the main website
-- Navigate to FRIEND-NEXT-DOOR ` cd FRIEND-NEXT-DOOR `
-- Install required dependencies ` npm i `
-- Use ` npm run start ` to start the app. The app will launch on ` http://localhost:3000 `
+- Navigate to FRIEND-NEXT-DOOR
+  ```bash
+    cd FRIEND-NEXT-DOOR
+  ```
+- Install required dependencies
+  ```bash
+     npm i
+  ```
+- Use this to start the app. The app will launch on ` http://localhost:3000 `
+  ```bash
+     npm run start
+  ```
 - Now the FriendNextDoor app is Running.
 
 ## 📷 Screenshots:
-<img width="550" height="350" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/fb771cb1-ee5d-4252-ad90-4ca9b94bcf92">
-<img width="550" height="350" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/52239d09-3313-4046-ade9-223aca692f2f">
-<img width="550" height="350" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/8e43ddcd-8cd9-47f3-b4a3-4cf320163012">
+<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/fb771cb1-ee5d-4252-ad90-4ca9b94bcf92">
+<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/52239d09-3313-4046-ade9-223aca692f2f">
+<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/8e43ddcd-8cd9-47f3-b4a3-4cf320163012">
  
  > *It's also responsive*
 <img width="auto" height="550" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/66ef8ef0-26af-4474-8fba-bc7542c3dd77">
