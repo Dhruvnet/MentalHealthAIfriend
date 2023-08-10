@@ -1,5 +1,4 @@
-
-### We have hosted the FriendNextDoor App on Vercel :- [https://friendnextdoor.vercel.app/](https://friendnextdoor.vercel.app/)
+> ### We have hosted the FriendNextDoor App on Vercel :- [https://friendnextdoor.vercel.app/](https://friendnextdoor.vercel.app/)
 
 # <img width="50" height="30" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/cc9b2dbb-351b-47d2-a88c-4656d2068598"> FriendNextDoor
 FriendNextDoor is an AI-powered mental health platform, which connects users with empathetic 3D avatars to discuss concerns in a safe, private space. Users can get tailored guidance on anxiety, stress, depression, and more.
@@ -40,10 +39,10 @@ The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the A
 - Now the FriendNextDoor app is Running.
 
 ## 📷 Screenshots:
-<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/fb771cb1-ee5d-4252-ad90-4ca9b94bcf92">
-<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/52239d09-3313-4046-ade9-223aca692f2f">
-<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/8e43ddcd-8cd9-47f3-b4a3-4cf320163012">
- 
+<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/f7edb354-a078-481f-8cb0-b7453bece55e">
+<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/be55ee24-be27-43b7-959b-74d6b9be6cdb">
+<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/0d88ef00-af83-4cb9-8666-d7c4109a45e5">
+
  > *It's also responsive*
 <img width="auto" height="550" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/66ef8ef0-26af-4474-8fba-bc7542c3dd77">
 
@@ -56,4 +55,8 @@ The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the A
 #
 Thank you for checking out our project! Feel free to explore the notebooks and the website. If you have any questions or feedback, don't hesitate to reach out. Happy coding! 😄👨‍💻👩‍💻
 
-
+> *Note:*
+> You need to add your own convoi API keys
+> ```bash
+> AVATAR\demo\talking-avatar\src\constants.js
+> ```
