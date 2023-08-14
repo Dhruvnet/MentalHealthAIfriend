@@ -39,9 +39,9 @@ The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the A
 - Now the FriendNextDoor app is Running.
 
 ## 📷 Screenshots:
-<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/f7edb354-a078-481f-8cb0-b7453bece55e">
-<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/be55ee24-be27-43b7-959b-74d6b9be6cdb">
-<img width="750" height="450" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/0d88ef00-af83-4cb9-8666-d7c4109a45e5">
+<img width="750" height="400" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/f7edb354-a078-481f-8cb0-b7453bece55e">
+<img width="750" height="400" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/be55ee24-be27-43b7-959b-74d6b9be6cdb">
+<img width="750" height="400" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/0d88ef00-af83-4cb9-8666-d7c4109a45e5">
 
  > *It's also responsive*
 <img width="auto" height="550" src="https://github.com/Dhruvnet/MentalHealthAIfriend/assets/123584784/66ef8ef0-26af-4474-8fba-bc7542c3dd77">
