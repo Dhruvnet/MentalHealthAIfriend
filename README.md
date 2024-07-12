@@ -12,7 +12,7 @@
   </p>
 </p>
 
-## 📢 Important Instructions
+# 📢 Important Instructions
 The app is divided into 2 folders, the main website (FRIEND-NEXT-DOOR) and the App to render Avatar (AVATAR)
 > *Note:*
 > Keep the AVATAR App running
